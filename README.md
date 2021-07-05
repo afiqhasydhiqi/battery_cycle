@@ -1,2 +1,2 @@
-# attendance-system-frontend
-RFID Attendance system basic frontend script for our RFID attendance system tutorial.
+# battery monitoring system
+Battery monitoring system basic frontend script.
